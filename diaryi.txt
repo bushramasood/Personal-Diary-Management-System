@@ -1,0 +1,20 @@
+Date =7777
+Time=888
+Name = jil
+Notemmmm mmmm
+Date =2021-1-18
+Time=:30
+Name = story1
+NoteDEAR ME,
+Date =2021-1-18
+Time=:40
+Name = story1
+NoteDEAR ME,
+Date =2021-1-18
+Time=.30
+Name = story
+Note1
+Date =2021-1-17
+Time=.30
+Name = story2
+Notestory of visiting on a trip with friendDEAR ME,

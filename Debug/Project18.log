@@ -1,0 +1,147 @@
+﻿Build started 1/23/2021 1:09:44 PM.
+     1>Project "C:\Users\FAST\Desktop\Project18\Project18\Project18.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\fast\desktop\project18\project18\source.cpp(179): error C3861: 'menu2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(210): error C3861: 'menu3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(242): error C3861: 'menu4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(546): error C3861: 'addrecord2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(549): error C3861: 'viewrecord2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(552): error C3861: 'editrecord2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(555): error C3861: 'deleterecord2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(581): error C3861: 'previousrecord2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(585): error C3861: 'add_new_record2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(595): error C2011: 'addrecord' : 'struct' type redefinition
+                 c:\users\fast\desktop\project18\project18\source.cpp(322) : see declaration of 'addrecord'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(603): error C2079: 'e' uses undefined struct 'addrecord'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(609): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(613): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(616): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(619): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(620): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(620): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(620): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(620): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(641): error C2079: 'e' uses undefined struct 'addrecord'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(647): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(651): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(654): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(657): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(658): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(658): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(658): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(658): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(687): error C3861: 'View_previous_records2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(691): error C3861: 'View_new_records2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(715): error C3861: 'Delete_Previous_records2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(719): error C3861: 'Delete_New_records2': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(820): error C3861: 'addrecord3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(823): error C3861: 'viewrecord3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(826): error C3861: 'editrecord3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(829): error C3861: 'deleterecord3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(855): error C3861: 'previousrecord3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(859): error C3861: 'add_new_record3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(877): error C2079: 'e' uses undefined struct 'addrecord'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(883): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(887): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(890): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(893): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(894): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(894): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(894): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(894): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(915): error C2079: 'e' uses undefined struct 'addrecord'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(921): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(925): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(928): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(931): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(932): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(932): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(932): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(932): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(961): error C3861: 'View_previous_records3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(965): error C3861: 'View_new_records3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(989): error C3861: 'Delete_Previous_records3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(993): error C3861: 'Delete_New_records3': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1090): error C3861: 'addrecord4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1093): error C3861: 'viewrecord4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1096): error C3861: 'editrecord4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1099): error C3861: 'deleterecord4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1125): error C3861: 'previousrecord4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1129): error C3861: 'add_new_record4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1147): error C2079: 'e' uses undefined struct 'addrecord'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1153): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1157): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1160): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1163): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1164): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1164): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1164): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1164): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1185): error C2079: 'e' uses undefined struct 'addrecord'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1191): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1195): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1198): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1201): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1202): error C2228: left of '.date' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1202): error C2228: left of '.time' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1202): error C2228: left of '.name' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1202): error C2228: left of '.note' must have class/struct/union
+                 type is 'int'
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1231): error C3861: 'View_previous_records4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1235): error C3861: 'View_new_records4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1262): error C3861: 'Delete_Previous_records4': identifier not found
+     1>c:\users\fast\desktop\project18\project18\source.cpp(1266): error C3861: 'Delete_New_records4': identifier not found
+     1>Done Building Project "C:\Users\FAST\Desktop\Project18\Project18\Project18.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.69
